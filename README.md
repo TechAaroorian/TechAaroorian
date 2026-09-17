@@ -58,5 +58,5 @@ reviews and coordination with backend, QA and UI teams.
 ## Links
 
 - [Portfolio](https://janarthanan-dev.com)
-- [LinkedIn][(YOUR_LINKEDIN_URL](https://www.linkedin.com/in/janarthanan-soundararajan-0544ab85/))
+- [LinkedIn][(YOUR_LINKEDIN_URL](https://www.linkedin.com/in/janarthanan-soundararajan-0544ab85/)
 - [DEV Community](https://dev.to/janarthanan_soundararajan)
